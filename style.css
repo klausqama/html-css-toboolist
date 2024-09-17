@@ -18,4 +18,36 @@ font-size: 50px;
 .name-header,.img-header{
     vertical-align: middle;
 }
-
+body{
+    background-color: white;
+}
+button{
+    color: white;
+  border: 1px;
+  border-radius: 5px;
+  padding: 5px;
+}
+.main{
+    padding: 30px;
+  padding-bottom: 10%;
+  background-color: rgba(236, 234, 234, 0.726);
+}
+.box-list{
+    background-color: white;
+    max-width: 70%;
+    margin: 20px auto;
+    margin-bottom: -18px;
+    border: 1px;
+    border-radius: 8px;
+    padding: 3%;
+}
+.add-task {
+    color: white;
+  border: 1px solid gray;
+  background-color: blue;
+}
+.add-section {
+    color: gray;
+    border: 1px solid gray;
+    background-color: white;
+}
